@@ -9,3 +9,6 @@ Back-End:SpringFramework,JSP,Mybatis,Oracle,JDK1.8,Tomcat9, Maven
 지금까지 배운 지식을 총 동원해서 만든 저의 첫번째 프로젝트는 'Spring+Mybatis+Oracle' 로 구성되어있습니다
 프로젝트를 만들면서 스프링이라는 프레임워크의 장단점을 알게되었습니다.
 
+
+![memomain](https://user-images.githubusercontent.com/59599438/79729035-d8a7e100-8329-11ea-9661-20cea9271590.png)
+
