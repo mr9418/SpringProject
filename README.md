@@ -18,7 +18,7 @@ DB와 연결하여 DB에 저장되어있는 비밀번호와 USER가 입력하는
 Controller를 사용하여 요청을 한 곳에서 처리할 수 있습니다.
 
 
-![memomain](https://user-images.githubusercontent.com/59599438/79729035-d8a7e100-8329-11ea-9661-20cea9271590.png)
+![5-2](https://user-images.githubusercontent.com/59599438/80483901-cf55ee80-8991-11ea-816e-f1550ad8edd9.png)
 
 #FrameWork설계
 <hr>
