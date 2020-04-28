@@ -1,4 +1,4 @@
-# Single page Application 출석메모장
+# Single page Application 자유메모장
 # 개요 
 Spring Framework를 이용해서 메모장을 만들어보았습니다
 # 주요 기술
