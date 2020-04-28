@@ -1,13 +1,15 @@
 # Single page Application 자유메모장
+개발환경-windows10
+사용도구-Eclipse,Dbeaver, Mybatis,Spring framework,Oracle,Tomcat,Maven
+사용기술-Front-End:BootStrap3,Html5,CSS,JavaScript,Ajax
 # 개요 
 Spring Framework를 이용해서 메모장을 만들어보았습니다
 # 주요 기술
 Front-End:Bootstrap3,Html5,CSS3,JS
+Back-End:Spring,JAVA,JSP,Mybatis,Oracle,JDK1.8,Tomcat9,Maven
 
-Back-End:SpringFramework,JSP,Mybatis,Oracle,JDK1.8,Tomcat9, Maven
-# 프로젝트를 수행하면서 배운점
-지금까지 배운 지식을 총 동원해서 만든 저의 첫번째 프로젝트는 'Spring+Mybatis+Oracle' 로 구성되어있습니다
-프로젝트를 만들면서 스프링이라는 프레임워크의 장단점을 알게되었습니다.
+<hr>
+
 
 
 ![memomain](https://user-images.githubusercontent.com/59599438/79729035-d8a7e100-8329-11ea-9661-20cea9271590.png)
