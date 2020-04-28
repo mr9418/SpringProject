@@ -1,7 +1,11 @@
 # Single page Application 자유메모장
 개발환경-windows10
+
 사용도구-Eclipse,Dbeaver, Mybatis,Spring framework,Oracle,Tomcat,Maven
-사용기술-Front-End:BootStrap3,Html5,CSS,JavaScript,Ajax
+
+사용기술-Front-End:BootStrap3,Html5,CSS,JavaScript
+
+
 # 주요 기술
 Front-End:Bootstrap3,Html5,CSS3,JS
 
