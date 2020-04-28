@@ -25,3 +25,25 @@ Controller를 사용하여 요청을 한 곳에서 처리할 수 있습니다.
 
 ![memomain](https://user-images.githubusercontent.com/59599438/79729035-d8a7e100-8329-11ea-9661-20cea9271590.png)
 
+
+
+#FrameWork설계
+<hr>
+[Spring 4.0]
+
+*Resource Mapping을 통한 리소스 폴더 관리
+
+[Mybatis]
+
+Mybatis와 Oracle 연동 구현
+
+Connection Pool 셋팅을 통한 DB연결 최적화
+
+
+[Log4j]
+
+디버깅 효율성 향상
+
+[Maven]
+
+라이브러리의 효율적 관리를 위해 사용
